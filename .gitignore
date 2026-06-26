@@ -1,0 +1,12 @@
+# 排除其他项目目录
+taobao/
+world/
+
+# 排除 SQLite 缓存文件
+id_cache.db
+id_cache.db-shm
+id_cache.db-wal
+
+# 保留 dannys_diner
+!dannys_diner/
+!dannys_diner/**
